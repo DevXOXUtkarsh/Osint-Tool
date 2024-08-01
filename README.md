@@ -31,4 +31,8 @@ A versatile OSINT tool for Termux that displays its name in rainbow colors and r
 
 This OSINT tool is easy to set up and use, making it a valuable addition to your cybersecurity toolkit.
 
+**MIT License**
+By following these steps, you provide a clear way for users to set up their environment and install the necessary libraries to run your Python project.
+
 ---
+
