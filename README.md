@@ -11,7 +11,7 @@ A versatile OSINT tool for Termux that displays its name in rainbow colors and r
 **Installation:**
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/osint-tool.git
+   git clone https://github.com/DevXOXUtkarsh/osint-tool.git
    ```
 2. **Navigate to the directory:**
    ```sh
@@ -31,8 +31,10 @@ A versatile OSINT tool for Termux that displays its name in rainbow colors and r
 
 This OSINT tool is easy to set up and use, making it a valuable addition to your cybersecurity toolkit.
 
-**MIT License**
-By following these steps, you provide a clear way for users to set up their environment and install the necessary libraries to run your Python project.
+##MIT License
+
+By following these steps, you ensure that your project is properly licensed and that users know the terms under which they can use, modify, and distribute your code.
+**For Education Purpose Only**
 
 ---
 
