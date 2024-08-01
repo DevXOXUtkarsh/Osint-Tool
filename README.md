@@ -2,6 +2,12 @@
 
 A versatile OSINT tool for Termux that displays its name in rainbow colors and retrieves detailed information about phone numbers. This tool leverages the `numverify` API to provide comprehensive details about phone numbers, making it an essential utility for cybersecurity professionals and enthusiasts.
 
+## Features
+
+- Retrieve IP address details using ipinfo.io.
+- Fetch social media profiles.
+- Scrape website titles.
+
 **Installation:**
 1. **Clone the repository:**
    ```sh
